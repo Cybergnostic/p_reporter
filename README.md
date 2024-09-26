@@ -53,7 +53,7 @@
     
 
 **Requirements:**
-	- Python 3.x 
-	- Pillow (PIL) library  
-	- pyperclip library 
-	- requests library
+- Python 3.x 
+- Pillow (PIL) library  
+- pyperclip library 
+- requests library
