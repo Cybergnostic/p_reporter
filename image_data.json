@@ -1,0 +1,194 @@
+{
+    "3.png": {
+        "question": "Select palm type:\n1) Fire\n2) Earth\n3) Water\n4) Air",
+        "text_blocks": {
+            "1": "Your hand shape aligns with the element of Fire, having a square or rectangular palm with fingers shorter than the palm itself. You have a solid hand shape suggesting you are active and enthusiastic nature. The Fire element, associated with the zodiac signs of Aries, Leo and Sagittarius are the most optimistic, impulsive and competitive of all the signs but you may be prone to a bad temper or taking too many risks. Brave, loyal and adventurous are all words others may use to describe you - you're the one who starts the party and the last one to leave the dance floor!\nThis hand shape does not always belong to people born under one of the Fire signs but I would not be surprised to see Fire signs appearing prominently in your astrological birth chart. You have a big, fun personality and a lot of energy, you are a natural leader, live your life spontaneously and enjoy a little drama!",
+            "2": "Your hand shape aligns with the element of Earth, having a broad, square palm with solid fingers which are equal to or longer than your palm. You have a sturdy hand shape suggesting you are sensible and down to earth. The Earth element, associated with the zodiac signs of Taurus, Virgo and Capricorn are the most practical, hard working and financially successful of all the signs but you may be prone to stubbornness and place too much importance on material possessions. Reliable, stable and reserved are all words your friends might use to describe you and there is nothing you enjoy more than getting outdoors and close to nature - you are most likely an animal lover too!\nThis hand shape does not always belong to people born under one of the Earth signs but I would not be surprised to see Earth signs appearing prominently in your astrological birth chart. You have a comforting, dependable way about you, you have traditional values and you are good with your hands - you are turned off by drama or fuss!",
+            "3": "Your hand shape aligns with the element of Water, having a long palm with graceful, slender fingers. You have an elegant hand shape suggesting you are sensitive, creative and compassionate. The Water element, associated with the zodiac signs of Cancer, Scorpio and Pisces are the most intuitive, musically gifted and emotionally aware of all the signs but you may be prone to volatile or changeable emotions or suffer with irrational mood swings in times of stress. Intense, empathetic and ethereal are all words your friends might use to describe you and you may even have psychic or healing gifts!\nThis hand shape does not always belong to people born under one of the Water signs but I would not be surprised to see Water signs appearing prominently in your astrological birth chart. You have a gentle, kind way about you, powerful gut instincts mean you are rarely wrong about people and others cling to you and say you have a calming presence in a crisis!",
+            "4": "Your hand shape aligns with the element of Air, having a square or rectangular palm with long, slender fingers and well defined knuckles. You may have a few lumps, bumps or quirky bends to your fingers but these only enhance your character and suggest you are inquisitive, intelligent and have a slightly eccentric personality. The Air element, associated with the zodiac signs of Gemini, Libra and Aquarius are the most witty, intellectual and sociable of all the signs but you are prone to being emotionally detached and aloof. Funny, outspoken and peaceful are all words your friends might use to describe you although you do have a rebellious side and don't mid stiring up a little controversy from time to time!\nThis hand shape does not always belong to people born under one of the Air signs but I would not be surprised to see Air signs appearing prominently in your astrological birth chart. You have a sharp sense of humor, big opinions and are a passionate humanitarian - you're good with technology and have a head for numbers and have an active social life on and off line!"
+        },
+        "coords": [140, 525],
+        "size": [1125, 600]
+    },
+    "5.png": {
+          "question": "Select palm color:\n1) Pink\n2) Blue\n3) White\n4) Red",
+          "text_blocks": {
+            "1": "My impression of your scanned image is that your palm is a vibrant pink color which is a great sign and reveals you are in good physical and mental health. Pink palms belong to those who look after their diet, maintain a healthy weight and exercise regularly, this is the best color palm to have!",
+            "2": "My impression of your scanned image is that your palm has a blue tinge which can accompany circulatory or respiratory issues and is often seen in smokers or those who have sedentary lifestyles and need to move about a little more. Blue palms often belong to those who are shy, timid or have a slightly nervous disposition.",
+            "3": "My impression of your scanned image is that your palm is white in color. Everyone gets white hands if they are cold but if you are warm all over and your hands are still white then this may be a sign of poor circulation, low energy levels, fatigue or anemia. You may be overworked, stressed or going through a difficult time emotionally, whatever the cause, pale hands are a reminder to look after yourself, pay attention to nutrition and get more rest.",
+            "4": "My impression of your scanned image is that your palm is red in color. Red is a good sign, most 'normal' palms are a light red colour and belong to positive, optimistic, sociable people with good energy levels. Very red palms can be a warning of circulatory issues, especially if they feel hot, have a burning sensation or they itch or swell up."
+          },
+          "coords": [140, 535],
+          "size": [1125, 210]
+    },
+    "7.png": {
+    "question": "Select finger length:\n1) Long\n2) Medium\n3) Short",
+    "text_blocks": {
+      "1": "When considering finger length we take the measurement from the length of the middle finger. If this is roughly three-quarters of the length of the whole palm then you have long fingers meaning the dominant part of your character is your mind. You are intelligent, have a wide range of interests and a good knowledge of many things, you have a strong memory and sound reasoning skills. You are well suited to technical careers which require constant updating and refreshing of skills, like teaching, research, science, writing or medicine. You may be prone to overthinking or being hypercritical and need to be careful not to become idealistic and set unrealistic expectations that others cannot hope to live up to.",
+      "2": "When considering finger length we take the measurement from the length of the middle finger. If this is roughly three-quarters of the length of the whole palm then you have medium length fingers and this is a good thing as it means that you are well balanced and neither live in your head nor ignore your logical mind. This is the most desirable hand proportion and reveals you are sensible, thoughtful and practical, yet still willing to learn and take a calculated risk or two when the situation warrants it. You are not prone to overthinking or recklessness so your decision making process is sound and reliable.",
+      "3": "When considering finger length we take the measurement from the length of the middle finger. If this is roughly three-quarters of the length of the whole palm then you have short fingers and this means you have a carefree and easy approach to life. You can be impatient and impulsive and as a result struggle to achieve all that you would like to in life, watch out for that temper and stubborn streak too! You are fun loving and don't mind taking risks but you may find it hard to manage your emotions and need to remember that there is more to life than work."
+    },
+    "coords": [140, 1000],
+    "size": [1125, 360]
+    },
+    "8.png": {
+      "question": "Select middle palm section:\n1) Well Developed\n2) Flat",
+      "text_blocks": {
+        "1": "You have a large, well developed middle section to your hand and this tells me that you are good at making money, have your affairs in order and prefer to have structure and routine in your life. You cope well with daily activities and are not one for drama or fuss. Friends probably describe you as someone they can rely on, someone who knows what to do in a crisis and who always lends a hand. Your practical self is dominant and you are likely to make decisions with your head rather than your heart.",
+        "2": "You have a flat and delicate middle section, with the dips and mounts below your finger not standing prominently from your palm. This suggests you are more creative than practical and that you have a relaxed attitude towards work and making money, you see them as necessary to achieving what you want in life but they are not your passion, you live for art, music, poetry or just for the joy of human connection. You cope with the challenges and routine of daily life but don't enjoy having to be structured and can at times be hampered by your own disorganized lifestyle. Decisions are taken with the heart not the head."
+      },
+      "coords": [140, 660],
+      "size": [1125, 275]
+    },
+    "9.png": {
+      "question": "Select lower palm section:\n1) Well Developed\n2) Flat",
+      "text_blocks": {
+        "1": "You have a well developed, fleshy, bulbous lower palm and this suggests you are sensual, earthy, in touch with nature and enjoy indulging all of your senses in the pursuit of pleasure. You are drawn to those things which stimulate your imagination and get your pulse racing. You enjoy an adventure, are physically active and want to live at a fast pace and experience everything life has to offer. You like instant gratification, sensual pleasures, have a low boredom threshold and before saying yes will ask yourself \"What's in it for me?\"",
+        "2": "You have a flat, tight lower palm and this suggests you may be quite shy about asking for what you want or when it comes to satisfying your physical needs. You prefer mental stimulation over physical and are thoughtful and reserved in nature, preferring to avoid risks and weighing up the pros and cons before embarking on any new venture."
+      },
+      "coords": [140, 660],
+      "size": [1175, 300]
+    },
+    "11.png": {
+        "question": "Select Heart Line type:\n1) Deep & Clear\n2) Clear but Shallow\n3) Wide but Shallow\n4) Lots of Breaks\n5) Chains / Loops",
+        "text_blocks": {
+          "1": "Imagine that the lines on your palm are rivers of energy, the deeper and clearer the lines are, the better the energy can flow up and down them. Your Heart line is deep and clear, this is the best type of Heart line to have and reveals your heart is strong and that you are capable of having healthy, lasting relationships and that you are fair and reliable in love.",
+          "2": "Imagine that the lines on your palm are rivers of energy, the deeper and clearer these lines are, the better the energy can flow up and down them. Your Heart line is clear but fairly shallow or feint, revealing you have a conventional attitude towards relationships and can be shy about expressing the depth of your feelings at times. Emotionally, you may be delicate and your heart is easily broken so trusting others could be something you need to work on. Too much stress in this area of your life can be a challenge that you find hard to overcome.",
+          "3": "Imagine that the lines on your palm are rivers of energy, the deeper and clearer these lines are, the better the energy can flow up and down them. Your Heart line is wide but shallow, this is quite rare to see and shows you to be someone who can get easily overwhelmed by your emotions. Your emotions can easily break the banks of the river and run off to the side and in real terms you find that life becomes much more chaotic and challenging if you experience upset in your emotional life. You need to work hard to maintain balance across all areas of your life and keep stress to a minimum.",
+          "4": "Imagine that the lines on your palm are rivers of energy, the deeper and clearer these lines are, the better the energy can flow up and down them. Your Heart line has many breaks along it and this represents not only that you need to pay attention to your physical health to stay strong and healthy but also that you may experience a hard time settling into lasting relationships. The frequent breaks along your Heart line can suggest a number of heartaches throughout your life and that you may be indecisive and have a hard time trusting your emotions.",
+          "5": "Imagine that the lines on your palm are rivers of energy, the deeper and clearer these lines are, the better the energy can flow up and down them. Your Heart line is interrupted by a number of chains or loops and this suggests that you find it difficult to make progress in your romantic relationships. You get stuck in cycles where the energy goes round and round and doesn't move forwards. In real terms this looks like falling in and out of love often and having short relationships rather than long lasting ones. You can break this cycle by working on consistency and in focusing on what you really want from a partner and in a relationship. Take time to get to know potential partners before becoming emotionally involved, set clear boundaries and stick to them."
+        },
+        "coords": [140, 900],
+        "size": [1125, 260]
+    },
+    "12.png": {
+        "question": "Select Heart Line color:\n1) Pink\n2) Red\n3) White\n4) Yellow",
+        "text_blocks": {
+            "1": "Your Heart line is closest to the color pink.",
+            "2": "Your Heart line is closest to the color red.",
+            "3": "Your Heart line is closest to the color white.",
+            "4": "Your Heart line is closest to the color yellow."
+        },
+        "coords": [140, 1510],
+        "size": [1125, 290]
+    },
+   "13.png": {
+    "question": "Select Heart Line position:\n1) Across Whole Palm\n2) Begins on Mount of Jupiter\n3) Begins between Mount of Jupiter & Saturn\n4) Begins on Mount of Saturn",
+    "text_blocks": {
+      "1": "Your Heart line is very long and stretches across your whole palm and is indicative of having too much heart. By this I mean that you experience everything very intensely, you struggle with your feelings falling into extremes and you have a tendency to overreact, making snap decisions that are hard to go back on. Your emotions rule your head and your decisions are based upon your feelings in a given moment.",
+      "2": "Your Heart line begins on the mount of Jupiter, the fleshy lump below your first finger. In astrology Jupiter is considered the planet of luck, abundance and good fortune, so this is a great place for your Heart line to begin. You are romantic, idealistic and sentimental. You have high standards and treat others with respect and kindness, you get easily hurt when others do not return these basic courtesies. You dream big, have a lot of love to give and enjoy being in a relationship.",
+      "3": "Your Heart line begins between the Mounts of Jupiter and Saturn, or under the point between the first and middle finger. This is a good position to be in as it reveals you are well balanced between love and practicality and shows you have commission sense and good reasoning skills. You don't tend to fall head over heels in love, you think carefully about your decisions and don't make empty promises. You look for partners who share your values and working towards common goals is important to you.",
+      "4": "Your Heart line starts on the Mount of Saturn and this has two implications, firstly, you are a very sensual and tactile person. You crave touch and need to feel a physical connection with partners for the relationship to be successful and harmonious. In astrology, Saturn is the planet of rules and restrictions so in love you may be a strict and stubborn partner and find it hard to make compromises. Saturn wants us to learn from our mistakes so you may need to learn lessons from past relationships before you can fully enjoy a happy and rewarding love connection."
+    },
+    "coords": [140, 690],
+    "size": [1125, 300]
+  },
+  "14.png": {
+    "question": "Is there a fork at the start of the Heart Line?\n1) Yes\n2) No",
+    "text_blocks": {
+      "1": "You do have a fork at the start of your Heart Line.",
+      "2": "You do not have a fork at the start of your Heart Line."
+    },
+    "coords": [140, 860],
+    "size": [1125, 125]
+  },
+  "15.png": {
+    "question": "Select the type of your Head Line:\n1) Deep & Clear\n2) Thin, Clear & Delicate\n3) Wide & Shallow\n4) Chains / Loops\n5) Broken",
+    "text_blocks": {
+      "1": "You have the most desirable type of Head line as it is deep and clear. Your mind functions well, you are confident in your decisions, and you have good concentration and memory. You are capable of overcoming obstacles and influencing your life path.",
+      "2": "Your Head line is thin, clear and somewhat delicate in appearance. This suggests that you may feel stressed and overwhelmed in the face of difficulties. While intelligent, you might struggle to apply your brilliance to practical matters due to lack of energy or motivation.",
+      "3": "Your Head line is wide and shallow so it is easy for you to become overwhelmed by even the smallest amount of stress. You might lose a lot of your mental energy through worrying or feeling anxious. Concentrating and sticking to long-term projects may be challenging for you.",
+      "4": "Your Head line has loops or chains running along it, indicating a cycle of stress and worry that hampers your progress. You may be shy or easily influenced. Building self-confidence and listening to your inner voice can help you break out of this cycle.",
+      "5": "Your Head line is fragmented or broken in places, suggesting a life punctuated by difficulties or challenges. It's important to face these times bravely and use your inner strength to overcome struggles and build a brighter future."
+    },
+    "coords": [140, 1430],
+    "size": [1155, 300]
+  },
+  "17.png": {
+    "question": "Select the length of your Head Line:\n1) Long / to Pinky Finger\n2) Medium / to Ring Finger\n3) Short / to Middle Finger",
+    "text_blocks": {
+      "1": "Your Head line starts on the Mount of Jupiter, extending across your palm to below your little finger. This is the most desirable type, indicating ambition, optimism, and a positive attitude. You believe in your abilities and strive for success.",
+      "2": "You have a medium length Head line that extends beneath your ring finger, associated with confidence and identity. This indicates balance, self-assurance, and a realistic outlook. You are emotionally balanced and practical.",
+      "3": "Your Head line is short, extending only to your middle finger on the Mount of Saturn. You may struggle with discipline and authority due to Saturn's influence. You are structured in your thinking, make decisions quickly, and focus intensely on a few passions."
+    },
+    "coords": [140, 490],
+    "size": [1155, 300]
+  },
+  "18.png": {
+    "question": "Is there a fork at the start of the Head Line?\n1) Yes\n2) No",
+    "text_blocks": {
+      "1": "You do have a fork at the start of your Head Line.",
+      "2": "You do not have a fork at the start of your Head Line."
+    },
+    "coords": [140, 650],
+    "size": [1125, 130]
+  },
+  "19.png": {
+    "question": "Select Life Line type:\n1) Deep & Clear\n2) Clear but Thin\n3) Rare - Wide & Shallow\n4) Very Short\n5) Broken\n6) Loops & Chains\n7) None\n8) Double",
+    "text_blocks": {
+      "1": "You have a deep, clear Life line, which is the most ideal type to have. Your line is well defined, pink, unbroken and so you are likely to be blessed with good health and energy throughout your life. You live life with purpose and put your all into everything you undertake. You have an abundance of energy and you respond well to any changes you make to improve your health. You have mastered the art of work life balance and recognise the benefit of indulging in unhealthy things in moderation.",
+      "2": "You have a thin, clear Life line and while this is not a negative thing it may mean that you need to actively protect your health and be careful not to become too stressed or exhausted. A thin Life line does not equal a sickly constitution, the energy still flows freely up and down your line, but you may also experience times in your life where you need to slow down, control anxiety and recharge your batteries.",
+      "3": "You have a pretty rare Life line which is wide and shallow. This type of line can be challenging as it can be a struggle to hold onto your energy and you lack stamina and reserves of energy to fight fatigue and illness when it comes. You may find it hard to stick to exercise routines and find that sleep does not fully refresh you and as a result you often feel cranky or irritable. The good news is that with effort and consistency you can reverse this, you need to find a routine which works for you and make it a part of your life. Protecting your health, paying attention to your body, resting when you need to and getting regular medical check ups will all help you maintain your health and keep you active and feeling good.",
+      "4": "Your Life line is very short but this is not a cause for alarm and it doesn't mean you'll have a short life. Instead, it signifies that you might face challenges or obstacles in your life journey. You may experience periods of low energy, health issues, or a tendency to feel easily overwhelmed so you need to be more mindful of your health and well-being than others.",
+      "5": "Your Life line is broken in one or more places, indicating potential periods of illness or low energy. However, you can reverse this by establishing a consistent routine that works for you. Prioritize your health through rest, regular checkups, and paying attention to your body's needs. These efforts will help you maintain good health, stay active, and feel your best.",
+      "6": "Your Life line is interrupted by chains or loops and can mean that you will experience recurrent health setbacks during your life. Your energy levels may depend upon your mood and what is happening externally and you may struggle to feel like you are making progress. Chains do not always mean ill health, they can also be indicative of periods of hardship or struggle. The good news is that with effort and consistency you can reverse this, you need to find a routine which works for you and make it a part of your life. Protecting your health, paying attention to your body, resting when you need to and getting regular medical check ups will all help you maintain your health and keep you active and feeling good.",
+      "7": "You do not have a Life line, this not a reason for concern, it is actually fairly common and can be a very good thing!You possess a unique energy and your life path isn't defined by traditional markers. Your experiences and strengths are indicated by other lines and mounts on your palm but the absence of a Life line reveals a life of constant movement and change and often indicates a dynamic, unconventional journey.You might find it hard to decide on a life path or commit to one thing at a time, you may also struggle with staying focused or with seeing projects through to the end and this is where to place your effort and energy to maximize your progress and achievements in life.",
+      "8": "You have a very rare type of Life line - you actually have two, known as a double Life line and not many people have two! This can be interpreted a number of ways, it may mean that you have an abundance of vitality and energy, you never get sick and you have a real lust and enthusiasm for life which others find it hard to compete with. The other interpretation is that you are living some sort of double life, I am not talking anything as extreme as being a secret agent, but it may be that you are not living as your authentic self, you hold a secret inside you or you long to be able to set the real you free and find acceptance. We can explore this further if you are interested to know more?"
+    },
+    "coords": [140, 1030],
+    "size": [1155, 280]
+  },
+  "20.png": {
+    "question": "Select Life Line conclusion:\n1) Defects\n2) No Defects",
+    "text_blocks": {
+      "1": "I do see some defects on your Life line, this is nothing to worry about, most of us have some kind of marking somewhere along the line. If you would like a more in depth analysis of your Life line let me know and we can explore this vast and fascinating subject further.",
+      "2": "I do not see any defects on your Life line but do let me know if you have any more questions about this area of your palm."
+    },
+    "coords": [140, 520],
+    "size": [1125, 170]
+  },
+  "22.png": {
+    "question": "Select Children line type:\n1) Has Children lines (select to enter how many)\n2) Unable to read / Not clear\n3) No lines\n4) Fatherhood / MALE\n5) No lines / MALE",
+    "text_blocks": {
+      "1": {
+        "text": "I have examined your image and can see that you may have X girls and Y boys in your lifetime.",
+        "placeholder": {
+          "girls": "X",
+          "boys": "Y"
+        }
+      },
+      "2": "I have looked at the picture you supplied and unfortunately this area of your palm is not clear enough to make an interpretation about how many Children lines you have. I'd be happy to look at your astrological birth chart which actually gives us a lot more information about children, I will be able to see how many you might have, when and what genders they might be and provide details about some of the astrological indicators of fertility.",
+      "3": "I have looked at your image and cannot see any Children lines. I'd be happy to look at your astrological birth chart which actually gives us a lot more information about children, I will be able to see how many you might have, when and what genders they might be and provide details about some of the astrological indicators of fertility.",
+      "4": "I have looked at your image and can see Children lines suggesting fatherhood is in your future should that be something you want.",
+      "5": "I have looked at your image and cannot see any Children lines. I'd be happy to look at your astrological birth chart which actually gives us a lot more information about children if you would like to know more about this subject."
+    },
+    "coords": [140, 785],
+    "size": [1125, 650]
+  },
+  "23.png": {
+    "question": "Select Marriage line interpretation:\n1) Long and straight\n2) Short\n3) 2 lines 1 shorter\n4) Curves downwards\n5) Curves upwards\n6) Forked\n7) No line",
+    "text_blocks": {
+      "1": "Your main Marriage line is long and straight, which is the best example of this line to have. You are passionate, gentle, kind and likely to find deep and lasting love.",
+      "2": "Your main Marriage line is short which reveals you may not have a strong interest or desire to find a life partner. You don't fall in love easily and will not settle for anything less than the perfect relationship.",
+      "3": "Your main Marriage line is visible and there is a second shorter line above or below it which suggests you may be in a volatile relationship and experience many quarrels if either of you is stubborn. Pay close attention to your compatibility and style of communication to avoid this coming to pass.",
+      "4": "Your main Marriage line curves downwards which means you may face challenges in your long term relationships and should be prepared to work hard to make your relationships work and stand the test of time.",
+      "5": "Your main Marriage line curves upwards which is a positive and harmonious sign that you will enjoy a warm, loving and affectionate union with your chosen partner.",
+      "6": "Your main Marriage line is forked at the end which reveals that you may experience two great loves in your lifetime and can suggest that you will settle with your life partner after a false start with somebody else.",
+      "7": "I have looked at the picture you supplied and unfortunately this area of your palm is not clear enough to make an interpretation of the Marriage line. This line starts on the side of the palm and can be very small. If you do not have one, this doesn't mean you will not marry, not everyone has every line and it doesn't mean they won't get married. I'd be happy to look at your astrological birth chart which reveals so much information about your ideal life partner, when you'll meet, where your paths will cross and also when you might marry - let me know if you'd like me to explore this for you."
+    },
+    "coords": [140, 1055],
+    "size": [1125, 350]
+  },
+  "24.png": {
+    "question": "Select Money line interpretation:\n1) Deep & clear\n2) Wavy\n3) Breaks\n4) None",
+    "text_blocks": {
+      "1": "You have a number of deep, clear, easy to identify Money lines which is a great sign! You are good at budgeting and managing your money, smart when it comes to investing, you live within your means and have a good attitude towards money.",
+      "2": "You have a wavy Money line which suggests you may have a tricky relationship with money, it comes and goes from your grasp and you have periods where you have a lot and other times where you not so much. Being consistent with your spending and saving habits will make a big difference to your overall financial health.",
+      "3": "Your Money lines have breaks and appear intermittent. You may experience times of financial hardship and money may be hard to come by. You can overcome this with careful planning and by being completely honest about your spending and saving habits and testing this as a skill you need to learn, there is no shame in reaching out for help!",
+      "4": "I cannot see any Money lines on your palm but don't worry, many people do not have these lines - they are not the only indicator of wealth and financial stability. If you are interested to know more about money and how to maximize your chances of achieving the financial status you desire let me know and we will explore some of the other indicators of wealth and success in your palm."
+    },
+    "coords": [140, 625],
+    "size": [1125, 300]
+  }
+  
+}
