@@ -39,7 +39,7 @@
     ```
 
         
-        -   The script will prompt you with questions about each image. Answer them to generate the report.
+    The script will prompt you with questions about each image. Answer them to generate the report.
    
 2.  **Enter the client's name** when prompted.
     
