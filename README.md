@@ -3,7 +3,6 @@
 
 1.  **Clone the repository**
     
-    Bash
     
     ```
     git clone https://github.com/your-username/your-repository 
@@ -12,7 +11,6 @@
 
 2.  **Navigate to the project directory**
     
-    Bash
     
     ```
     cd your-repository-name
@@ -21,7 +19,6 @@
     
 3.  **Install the required dependencies**
     
-    Bash
     
     ```
     pip install -r requirements.txt 
@@ -35,14 +32,11 @@
     
 1.  **Run the script**
     
-    -   **Interactive mode**
         
-        Bash
+    ```
+    python main.py
         
-        ```
-        python main.py
-        
-        ```
+    ```
 
         
         -   The script will prompt you with questions about each image. Answer them to generate the report.
