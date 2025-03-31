@@ -129,7 +129,7 @@ def log_run(log_file, answers):
 
     # Read the existing lines except the first one (if the file exists)
     if os.path.exists(log_file):
-        with open(log_file, "r") as file:
+        with open(log_file, "r", encoding="utf-8", errors="replace") as file:
             lines = file.readlines()
     else:
         lines = []  # If the file doesn't exist, start with an empty list
