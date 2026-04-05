@@ -1,2 +1,10 @@
 answers_log.txt
 reports_finished/
+output/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.python-version
+.codex/

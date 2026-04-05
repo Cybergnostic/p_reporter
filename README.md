@@ -1,53 +1,85 @@
+# Palmistry Report Generator
 
-## Installation
+This project asks a series of questions, writes the selected text onto template
+images using fixed coordinates from `image_data.json`, and exports the finished
+pages as a PDF report.
 
-1.  **Clone the repository**
-    
-    
-    ```
-    git clone https://github.com/your-username/your-repository 
-    
-    ```
+The text placement system is coordinate-based. The templates, coordinates, box
+sizes, and font settings are intended to match the existing design layout.
 
-2.  **Navigate to the project directory**
-    
-    
-    ```
-    cd your-repository-name
-    
-    ```
-    
-3.  **Install the required dependencies**
-    
-    
-    ```
-    pip install -r requirements.txt 
-    
-    ```
+## What the project does
 
-    
+1. Loads the page definitions from `image_data.json`
+2. Resolves the matching source image from `design/`
+3. Draws the answer text onto the page image
+4. Copies any untouched pages into `output/`
+5. Builds the final PDF in `reports_finished/`
 
-## Usage
-    
-    
-1.  **Run the script**
-    
-        
-    ```
-    python main.py
-        
-    ```
+## Requirements
 
-        
-    The script will prompt you with questions about each image. Answer them to generate the report.
-   
-2.  **Enter the client's name** when prompted.
-    
-3.  **The script will generate a PDF report** named after the client in the `reports_finished` folder.
-    
+- Python 3.11 or newer
+- The files and folders already included in this repo:
+  - `design/`
+  - `fonts/`
+  - `image_data.json`
 
-**Requirements:**
-- Python 3.x 
-- Pillow (PIL) library  
-- pyperclip library 
-- requests library
+## Install
+
+### Windows
+
+```bash
+git clone https://github.com/Cybergnostic/p_reporter.git
+cd p_reporter
+py -3.11 -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+### macOS / Linux
+
+```bash
+git clone https://github.com/Cybergnostic/p_reporter.git
+cd p_reporter
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+## Run
+
+### Windows
+
+```bash
+py main.py
+```
+
+### macOS / Linux
+
+```bash
+python3 main.py
+```
+
+## Usage flow
+
+1. The script shows each question in sequence.
+2. Enter the answer key shown in the prompt.
+3. Enter `b` to go back one page if needed.
+4. For question 22, if you choose answer `1`, the script asks for boys/girls counts.
+5. At the end, enter the client's name.
+6. The finished PDF is written to `reports_finished/`.
+
+## Generated files
+
+- `output/` contains the page images used to assemble the report
+- `reports_finished/` contains the final PDF exports
+- `answers_log.txt` stores the answer history and client names
+
+These generated files are not meant to be committed to Git.
+
+## Dependencies
+
+The runtime dependencies are listed in `requirements.txt`:
+
+- Pillow
+- pyperclip
+- requests
