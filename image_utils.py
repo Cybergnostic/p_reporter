@@ -199,18 +199,28 @@ def compile_images_to_pdf(output_folder, pdf_output_folder, client_name):
             counter += 1
             pdf_path = pdf_output_folder / f"{base_pdf_name} ({counter}).pdf"
 
-        for index, file_path in enumerate(ordered_page_paths):
-            with Image.open(file_path) as img:
-                pdf_page, resolution = prepare_image_for_pdf(img)
-                save_kwargs = {
-                    "format": "PDF",
-                    "resolution": resolution[0],
-                    "quality": PDF_EXPORT_JPEG_QUALITY,
-                    "optimize": True,
-                }
-                if index > 0:
-                    save_kwargs["append"] = True
-                pdf_page.save(pdf_path, **save_kwargs)
+        prepared_pages = []
+        resolution = (72, 72)
+
+        try:
+            for file_path in ordered_page_paths:
+                with Image.open(file_path) as img:
+                    pdf_page, resolution = prepare_image_for_pdf(img)
+                    prepared_pages.append(pdf_page)
+
+            first_page, *remaining_pages = prepared_pages
+            first_page.save(
+                pdf_path,
+                format="PDF",
+                save_all=True,
+                append_images=remaining_pages,
+                resolution=resolution[0],
+                quality=PDF_EXPORT_JPEG_QUALITY,
+                optimize=True,
+            )
+        finally:
+            for page in prepared_pages:
+                page.close()
 
         print(f"PDF compiled and saved to {pdf_path}")
     else:
